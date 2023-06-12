@@ -9,16 +9,14 @@
 		text-align: center;
       }
 	  h1 {
-	     padding-top: 10px;
 	     font-size: 50px;
 		 font-family: Helvetica, Arial, sans-serif;
-		 color: black;
+		 color: white;
       }
     h2 {
-	    padding-top: 10px; 
 	    font-size: 20px;
 		 font-family: Helvetica, Arial, sans-serif;
-		 color: black;
+		 color: gray;
       }
 }
 
