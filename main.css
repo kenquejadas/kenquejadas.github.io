@@ -18,7 +18,11 @@
 	position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; 
 } 
 .circular-portrait img {
-	width: 100%; height: auto; 
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 100%; 
+	height: auto; 
 }
 
 h2 {
